@@ -1,4 +1,4 @@
-package com.thoughtworks.it1;
+package com.thoughtworks.core;
 
 /* Chance of an event happening */
 public class Probability {

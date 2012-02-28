@@ -1,4 +1,4 @@
-package com.thoughtworks.it1;
+package com.thoughtworks.core;
 
 /* Understands a 4 sided polygon with adjacent sides perpendicular to each other */
 public class Rectangle {

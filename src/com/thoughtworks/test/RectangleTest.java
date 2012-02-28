@@ -1,6 +1,6 @@
 package com.thoughtworks.test;
 
-import com.thoughtworks.it1.Rectangle;
+import com.thoughtworks.core.Rectangle;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

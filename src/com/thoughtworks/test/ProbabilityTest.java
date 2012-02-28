@@ -1,6 +1,6 @@
 package com.thoughtworks.test;
 
-import com.thoughtworks.it1.Probability;
+import com.thoughtworks.core.Probability;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
