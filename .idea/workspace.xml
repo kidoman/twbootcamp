@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92b2471f-3495-45c7-9a54-f78306f7c304" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java" afterPath="$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thoughtworks/test/ProbabilityTest.java" afterPath="$PROJECT_DIR$/src/com/thoughtworks/test/ProbabilityTest.java" />
     </list>
     <ignored path="It1.iws" />
@@ -65,7 +63,7 @@
       <file leaf-file-name="ProbabilityTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/thoughtworks/test/ProbabilityTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="28" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.0">
+            <state line="44" column="40" selection-start="1172" selection-end="1196" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,7 +74,7 @@
       <file leaf-file-name="Probability.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="36" selection-start="65" selection-end="65" vertical-scroll-proportion="0.06912442">
+            <state line="33" column="23" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.6889401">
               <folding />
             </state>
           </provider>
@@ -229,35 +227,7 @@
       <recent name="com.thoughtworks.it1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.com.thoughtworks in It1">
-    <configuration default="false" name="RectangleTest.canProviderPerimeterForZeroRectangle" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.thoughtworks.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="It1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.thoughtworks.test" />
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.test.RectangleTest" />
-      <option name="METHOD_NAME" value="canProviderPerimeterForZeroRectangle" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.ProbabilityTest">
     <configuration default="false" name="ProbabilityTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -356,6 +326,34 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ProbabilityTest.checksEquality" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.thoughtworks.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="It1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.thoughtworks.test" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.test.ProbabilityTest" />
+      <option name="METHOD_NAME" value="checksEquality" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -528,11 +526,11 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.Run Tests" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.RectangleTest.canProviderPerimeterForZeroRectangle" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ProbabilityTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ProbabilityTest.canProvideAndProbability" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ProbabilityTest.canProviderProbabilityOfACertainConditionAndAConditionWhichWouldNeverOccur" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.com.thoughtworks in It1" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ProbabilityTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ProbabilityTest.canProvideAndProbability" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ProbabilityTest.canProviderProbabilityOfACertainConditionAndAConditionWhichWouldNeverOccur" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.com.thoughtworks in It1" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.ProbabilityTest.checksEquality" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -681,7 +679,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/thoughtworks/test/ProbabilityTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="28" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.0">
+        <state line="44" column="40" selection-start="1172" selection-end="1196" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -690,7 +688,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="36" selection-start="65" selection-end="65" vertical-scroll-proportion="0.06912442">
+        <state line="33" column="23" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.6889401">
           <folding />
         </state>
       </provider>

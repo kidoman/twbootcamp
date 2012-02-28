@@ -35,6 +35,33 @@ public class ProbabilityTest {
     public void canProviderProbabilityOfACertainConditionAndAConditionWhichWouldNeverOccur() {
         assertEquals(Probability.Never, Probability.Certainty.and(Probability.Never));
     }
+    
+    @Test
+    public void probabilityIsNotNull() {
+        assertFalse(p(0.1).equals(null));
+    }
+    
+    @Test
+    public void probabilityIsNotAnObject() {
+        assertFalse(p(0.1).equals(new Object()));
+    }
+    
+    @Test
+    public void probabilityEqualsSelf() {
+        Probability p = p(0.1);
+        
+        assertTrue(p.equals(p));
+    }
+
+    @Test
+    public void twoEventsWithEqualChancesOfOccuranceAreEqual() {
+        assertTrue(p(0.1).equals(p(0.1)));
+    }
+    
+    @Test
+    public void twoEventsWithDifferentChancesOfOccuranceAreNotEquallyProbable() {
+        assertFalse(p(0.1).equals(p(0.2)));
+    }
 
     private Probability p(double value) {
         return new Probability(value);
