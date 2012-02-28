@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92b2471f-3495-45c7-9a54-f78306f7c304" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/It1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thoughtworks/it1/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thoughtworks/test/ProbabilityTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/thoughtworks/test/RectangleTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java" afterPath="$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thoughtworks/test/ProbabilityTest.java" afterPath="$PROJECT_DIR$/src/com/thoughtworks/test/ProbabilityTest.java" />
     </list>
     <ignored path="It1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,10 +62,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ProbabilityTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ProbabilityTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/thoughtworks/test/ProbabilityTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="5" selection-start="562" selection-end="562" vertical-scroll-proportion="0.55069125">
+            <state line="38" column="28" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Probability.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Probability.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="8" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0">
+            <state line="2" column="36" selection-start="65" selection-end="65" vertical-scroll-proportion="0.06912442">
               <folding />
             </state>
           </provider>
@@ -114,8 +100,8 @@
         <option value="$PROJECT_DIR$/src/com/thoughtworks/it1/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/com/thoughtworks/test/RectangleTest.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/com/thoughtworks/test/ProbabilityTest.java" />
         <option value="$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java" />
+        <option value="$PROJECT_DIR$/src/com/thoughtworks/test/ProbabilityTest.java" />
       </list>
     </option>
   </component>
@@ -693,19 +679,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="8" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/thoughtworks/test/ProbabilityTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="5" selection-start="562" selection-end="562" vertical-scroll-proportion="0.55069125">
+        <state line="38" column="28" selection-start="1066" selection-end="1066" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="36" selection-start="65" selection-end="65" vertical-scroll-proportion="0.06912442">
+          <folding />
         </state>
       </provider>
     </entry>
