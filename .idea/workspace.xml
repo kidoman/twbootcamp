@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92b2471f-3495-45c7-9a54-f78306f7c304" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java" afterPath="$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java" />
-    </list>
+    <list default="true" id="92b2471f-3495-45c7-9a54-f78306f7c304" name="Default" comment="" />
     <ignored path="It1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,7 +61,7 @@
       <file leaf-file-name="ProbabilityTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/thoughtworks/test/ProbabilityTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="27" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
+            <state line="59" column="103" selection-start="1518" selection-end="1518" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,7 +72,7 @@
       <file leaf-file-name="Probability.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="101" selection-start="623" selection-end="623" vertical-scroll-proportion="0.4783599">
+            <state line="6" column="33" selection-start="214" selection-end="214" vertical-scroll-proportion="0.20501138">
               <folding />
             </state>
           </provider>
@@ -692,7 +690,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/thoughtworks/test/ProbabilityTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="27" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
+        <state line="59" column="103" selection-start="1518" selection-end="1518" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -701,7 +699,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/thoughtworks/it1/Probability.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="101" selection-start="623" selection-end="623" vertical-scroll-proportion="0.4783599">
+        <state line="6" column="33" selection-start="214" selection-end="214" vertical-scroll-proportion="0.20501138">
           <folding />
         </state>
       </provider>
