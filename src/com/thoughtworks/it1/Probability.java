@@ -12,7 +12,7 @@ public class Probability {
 
     public Probability(double value) throws ArithmeticException {
         if (value < 0 || value > 1)
-            throw new IllegalArgumentException("Probability value cannot be < 0 or > 1");
+            throw new IllegalArgumentException("Probability value cannot be < 0 or > 1. Got " + value);
 
         this.value = value;
     }
